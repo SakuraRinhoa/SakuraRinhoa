@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SakuraRinhoa.
-- 👀 I’m a MtF / CS Student / Minecraft Player.
-- 🌱 I’m currently learning C++ / Python / Java / JS / Html / Html5 /Animate CC.
+- 🙌 Hi, I’m @SakuraRinhoa.
+- 🙋🏻‍♀️ I’m a MtF / CS Student / Minecraft Player.
+- 💻 I’m currently learning [C++ / Python / Java / JS / Html5] etc..
 - 💞️ I’m looking to collaborate on ???///???
 - 📫 Twitter@RinhoaSakura
 <!---
